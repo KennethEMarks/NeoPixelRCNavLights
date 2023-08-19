@@ -6,7 +6,7 @@
 #include <OneButton.h>
 #include "NeoPatterns.h"
 
-#define DEBUG 1
+//#define DEBUG 1
 
 // TYPES
 typedef enum e_operation_state {
