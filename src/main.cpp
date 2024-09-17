@@ -7,6 +7,7 @@
 #include "NeoPatterns.h"
 
 #define DEBUG 1
+// Just making a change
 
 // TYPES
 typedef enum e_operation_state {
